@@ -4,4 +4,6 @@ This is a awesome website
 
 Repository Purpose
 
-Merge using tool
+## Change
+
+This is to update tag with recent commit
