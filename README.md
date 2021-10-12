@@ -2,4 +2,7 @@ My Website
 
 This is a awesome website
 
-update readme before rebase
+Repository Purpose
+
+changes done on the local side
+to generate conflict
